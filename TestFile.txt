@@ -1,0 +1,1 @@
+Verify that you have a private key generated and loaded into SSH. If you're using OpenSSH 6.7 or older:
